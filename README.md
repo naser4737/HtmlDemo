@@ -1,5 +1,5 @@
 # HtmlDemo
-Sure, here are the HTML element names corresponding to the elements in the code you provided:
+here are the HTML element names corresponding to the elements in the code:
 
 1. `<!DOCTYPE html>`: Document Type Declaration
 2. `<html>`: HTML Root Element
@@ -45,5 +45,3 @@ Sure, here are the HTML element names corresponding to the elements in the code 
 42. `<fieldset>`: Fieldset Element (inside `<form>`)
 43. `<legend>`: Legend Element (inside `<fieldset>`)
 44. `<button>`: Button Element (inside `<fieldset>`)
-
-These are the HTML elements present in the provided HTML code, each serving a specific purpose in structuring and styling the content of a web page.
